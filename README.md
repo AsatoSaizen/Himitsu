@@ -62,5 +62,5 @@ If you have any questions or feel this project is in violation of your license, 
 <br />
 
 <p align="center">
-<img src="https://count.getloli.com/get/@:repodevildantotsu" alt=":repodevildantotsu" />
+<img src="https://count.getloli.com/get/@:repodevildantotsu?theme=gelbooru" alt="Himitsu Moe Counter!" />
 </p>
