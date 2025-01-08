@@ -15,7 +15,6 @@
 Note: This project does not provide any content. All extensions have been retroactively stripped upon creation of the fork. Add-ons are developed and distributed by Dantotsu. Content is provided by AniList, MyAnimeList, MangaUpdates, and other third-party integrations who retain all rights.
 </p>
 </i>
-<br />
 
 <details>
 <summary>GNU General Public License v3.0 and Apache License, Version 2.0</summary>
