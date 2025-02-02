@@ -121,7 +121,7 @@ jobs:
     - name: Decode Keystore File
       run: echo "${{ secrets.KEYSTORE_FILE }}" | base64 -d > $GITHUB_WORKSPACE/key.keystore
 
-    - uses: burrunan/gradle-cache-action@v1
+    - uses: burrunan/gradle-cache-action@release
       name: Build Release Gradle
       with:
         job-id: Release
